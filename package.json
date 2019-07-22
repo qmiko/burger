@@ -9,17 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qmiko/eat-da-burger.git"
+    "url": "git+https://github.com/qmiko/burger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qmiko/eat-da-burger/issues"
+    "url": "https://github.com/qmiko/burger/issues"
   },
-  "homepage": "https://github.com/qmiko/eat-da-burger#readme",
+  "homepage": "https://github.com/qmiko/burger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
-    "mysql": "^2.17.1"
-  }
+    "mysql": "^2.17.1",
+    "orm": "^5.0.4"
+  },
+  "devDependencies": {}
 }
