@@ -23,6 +23,5 @@ var burger = {
     }
 };
 
-
 // Export Database
 module.exports = burger;
