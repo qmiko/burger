@@ -14,7 +14,7 @@ npm install
 
 Run server with node
 
-Head to localhost:3000 in your browser
+Head to localhost:8080 in your browser
 
 # Heroku Link
 
